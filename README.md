@@ -36,3 +36,11 @@ Identifying retail locations where wealthy consumers congregate, remain for a pe
 #### 5. **County/City Zoning and Land Use Database(s)**
 
 ---
+
+
+
+---
+
+**`CONGRATS!`** The team did such great work helping **PurpleSky** find their next location, the board has green-lit investment in *group-004'*s new FinTech consulting firm. We now have the resources to develop a commercial application of the program.py that will help other burgeoning cannabis dispensaries find that ideal location for their next store's location. Which will come in handy (and profitable!) with the imminent arrival of Federal decriminalization of cannabis use.
+
+---
