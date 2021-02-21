@@ -1,6 +1,6 @@
 # 004.01-proj-group4
 004-proj-group4's project repository.
-
+![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1)
 
 ### In this challenge, we began work on our first collaborative project of the course. Our Challenge was to: 
 >  ## 1) Analyze a real-world FinTech problem
@@ -36,7 +36,7 @@ Identifying retail locations where wealthy consumers congregate, remain for a pe
 #### 5. **County/City Zoning and Land Use Database(s)**
 
 ---
-
+Vizzes
 
 
 ---
