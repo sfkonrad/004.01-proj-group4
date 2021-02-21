@@ -7,7 +7,7 @@
 
 > ## 2) Develop an Application that solves that FinTech problem 
 
-### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement upon the scope of the team's sanalysis. Our use case is presented as follows...
+### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement upon the scope of our team's sanalysis. Our use case is presented as follows...
 
 
 ---
