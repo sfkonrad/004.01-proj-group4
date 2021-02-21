@@ -1,11 +1,10 @@
 # 004.01-proj-group4
-004-proj-group4's project repository.
-
+![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1)
 
 ### In this challenge, we began work on our first collaborative project of the course. Our Challenge was to: 
 >  ## 1) Analyze a real-world FinTech problem
 
-> ## 2) Develop an Application that solves this FinTech problem 
+> ## 2) Develop an Application that solves said FinTech problem 
 
 ### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement for the scope of our team's sanalysis. Our use case presents as follows...
 
@@ -36,11 +35,25 @@ Identifying retail locations where wealthy consumers congregate, remain for a pe
 #### 5. **County/City Zoning and Land Use Database(s)**
 
 ---
-
+Vizzes
 
 
 ---
+Analysis
+
+
+---
+
 
 **`CONGRATS!`** The team did such great work helping **PurpleSky** find their next location, the board has green-lit investment in *group-004'*s new FinTech consulting firm. We now have the resources to develop a commercial application of the program.py that will help other burgeoning cannabis dispensaries find that ideal location for their next store's location. Which will come in handy (and profitable!) with the imminent arrival of Federal decriminalization of cannabis use.
 
 ---
+
+
+
+---
+Credits 
+
+
+---
+
