@@ -13,7 +13,7 @@
 ---
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community. The doors of this belovedly understated storefront have been open for business since 2013.
 
-What differentiates them from the competition are Value, Quality, Value again, Customer Experience, and Value again.
+What differentiates them from the competition are Value, Quality, Customer Experience, and Value again.
 
 **`GREAT NEWS!`** **PurpleSky**'s Executive Management has just received approval from their legal team and core investors to move forward with development of the business's first satellite retail location. This will be a particularly challenging decision because the new location will be outside of California; in the **Seattle-Tacoma-Bellevue MSA**. The Board has seen the work presented in our team's collective and individual **Github** repositories and they were eager to hire us for the job! Our objective was to employ critical market data to pinpoint the precise street and block that would make this new location as successful as the original.
 
