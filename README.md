@@ -5,7 +5,7 @@
 ### In this challenge, we began work on our first collaborative project of the course. Our Challenge was to: 
 >  ## 1) Analyze a real-world FinTech problem
 
-> ## 2) Develop an Application that solves that FinTech problem 
+> ## 2) Develop an Application that solves this FinTech problem 
 
 ### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement upon the scope of our team's sanalysis. Our use case is presented as follows...
 
