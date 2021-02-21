@@ -21,7 +21,7 @@ The Board had further stipulated the new location would need to adhere to a rigo
 > 1. Be located on Seattle's Eastside.
 > 2. Meet standards for pedestrian foot traffic and walkability to/from geographic locations (coordinates, zips) where a higher propensity of professionals and high net-worth consumers are expected to converge.
 > 3. Embody a presence of community in the new neighborhood where **PurpleSky** could eventually fully assimilate.
-> 4. Meet the client-unique requirement that the new storefront must be in compliance with local zoning and land use regulations allowing the public sale and distribution of recreational cannabis products.
+> 4. The new storefront must be in compliance with local zoning and land use regulations allowing the public sale and distribution of recreational cannabis products.
 
 Identifying retail locations where wealthy consumers congregate, remain for a period of time, and are likely to spend money had been a challenge for the client's decision makers considering the state of the present COViD Economy.
 
