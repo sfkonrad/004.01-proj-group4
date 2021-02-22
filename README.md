@@ -6,7 +6,7 @@
 
 > ## 2) Develop an Application that solves said FinTech problem 
 
-### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement for the scope of our team's sanalysis. Our use case presents as follows...
+### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement for the scope of our team's analysis. Our use case presents as follows...
 
 
 ---
@@ -35,6 +35,22 @@ Identifying retail locations where wealthy consumers congregate, remain for a pe
 #### 5. **County/City Zoning and Land Use Database(s)**
 
 ---
+
+
+
+---
+Methodology
+
+1. Connect to the Data 
+2. Build Dataframes for the data 
+3. Tables for Analysis
+4. Plot Charts
+5. Plot Maps
+6. Compare yelp! Data from Each Supercharger Coordinate 
+7. Determine 
+8. Delivery of Recommendation
+
+---
 Vizzes
 
 
@@ -44,16 +60,7 @@ Analysis
 
 ---
 
-
 **`CONGRATS!`** The team did such great work helping **PurpleSky** find their next location, the board has green-lit investment in *group-004'*s new FinTech consulting firm. We now have the resources to develop a commercial application of the program.py that will help other burgeoning cannabis dispensaries find that ideal location for their next store's location. Which will come in handy (and profitable!) with the imminent arrival of Federal decriminalization of cannabis use.
 
 ---
-
-
-
----
 Credits 
-
-
----
-
