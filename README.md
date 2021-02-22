@@ -47,7 +47,7 @@ Methodology
 4. Plot Charts
 5. Plot Maps
 6. Compare yelp! Data from Each Supercharger Coordinate 
-7. Determine 
+7. Analysis and Findings 
 8. Delivery of Recommendation
 
 ---
@@ -57,6 +57,12 @@ Vizzes
 ---
 Analysis
 
+
+assumptions:
+    -> more yelp reviews means higher traffic
+    -> the longer businesses stay in business means increased sense of community
+    -> 
+    -> 
 
 ---
 
