@@ -115,7 +115,8 @@ Conclusion
 
 
 
-many thanks to the
+Many Thanks to the
+
 **Instructional Staff**
 > Khaled Karman, Lead Instructor 
 >
