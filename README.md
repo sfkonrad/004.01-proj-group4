@@ -106,17 +106,15 @@ assumptions:
 > - Script Q.C.
 
 
-<<<<<<< HEAD
-
 
 many thanks to the
 **Instructional Staff**
 > Khaled Karman, Lead Instructor 
+>
 > Venkata Kupta, TA
+>
+>
+>
 > David Beck, TA 
 > 
 > Sarah, SSM
-
-
-=======
->>>>>>> 0b60edfb74bc1a0a01d508718e0d69abf58a6922
