@@ -11,9 +11,9 @@
 
 Project 1 | Team 4
 >Alejandra Vasquez 
-Ally Che
-Ehab Kassim
-Konrad Kozicki
+>Ally Che
+>Ehab Kassim
+>Konrad Kozicki
 
 
 ---
