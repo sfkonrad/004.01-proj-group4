@@ -108,4 +108,12 @@ assumptions:
 
 
 
+many thanks to the
+**Instructional Staff**
+> Khaled Karman, Lead Instructor 
+> Venkata Kupta, TA
+> David Beck, TA 
+> 
+> Sarah, SSM
+
 
