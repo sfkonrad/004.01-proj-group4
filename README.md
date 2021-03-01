@@ -17,7 +17,7 @@ Team 4 | Project 1
 
 > ## 2) Develop an Application that Solves said FinTech Problem 
 
-### Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive, script-driven analysis. 
+### Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive, script-driven Analysis. 
 
 ---
 
@@ -34,7 +34,7 @@ Our utility, "Project HotSpot", is tasked with providing market intelligence and
 
 > **`GREAT NEWS!`** **PurpleSky**'s Executive Management has just received approval from their legal team and core investors to move forward with plans for the business's first satellite retail location. This will be a particularly challenging decision because the new location will be outside of California; in the **Seattle-Tacoma-Bellevue MSA**. The Board has seen the work presented in our team's collective and individual **Github** repositories and they were eager to hire us for the job! Our objective was to employ critical market data to pinpoint the precise street and block that would make this new location as successful as the original.
 
-Identifying retail locations where wealthy consumers congregate, remain for a period of time, and are likely to spend money is a challenge for most decision makers considering the state of the present COVID Economy.
+Identifying retail locations where wealthy consumers converge, remain for a period of time, and are likely to spend money is a challenge for most decision makers considering the state of the present COVID Economy.
 
 ---
 
@@ -86,3 +86,38 @@ assumptions:
 
 ---
 Credits 
+
+**Alejandra**
+Lead, API Engineering
+Co-Lead, Design Engineering
+> Programming
+- Yelp! APIs and data
+- Income Stat APIs and data
+
+
+
+
+Ally
+Lead, Project Management
+Lead, Housing Data Engineering
+Programming
+Zillow Historical Housing Stats APIs and data
+SFR YoY Projected Growth APIs and data
+
+
+
+Ehab
+Lead, Program Logic and User Stories
+Co-Lead, Design Engineering
+Programming
+Tesla Supercharger Station APIs and data
+Zoning and Land Use Requirements
+
+
+
+Konrad
+User Stories, GitHub Master
+C0-Lead
+Overall architect
+Overall data & support
+
