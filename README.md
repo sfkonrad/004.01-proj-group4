@@ -1,6 +1,6 @@
 # Project: HotSpot
 ### Market Analysis Through Automation & Data Science
-Project 1 | Team 4
+Team 4 | Project 1
 >Alejandra Vasquez 
 
 >Ally Che
@@ -12,15 +12,22 @@ Project 1 | Team 4
 ![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1)
 
 ### In this challenge, we began work on our first collaborative project of the course. Our Challenge was to: 
->  ## 1) Analyze a real-world FinTech problem
+>  ## 1) Analyze a Real-World FinTech Problem
 
-> ## 2) Develop an Application that solves said FinTech problem 
+> ## 2) Develop an Application that Solves said FinTech Problem 
 
-### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement for the scope of our team's analysis. Our use case presents as follows...
-
+### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to mutually decide on the scope of our team's analysis. Our use case presents as follows...
 
 
 ---
+
+
+
+
+
+
+
+
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community. The doors of this belovedly understated storefront have been open for business since 2013.
 
 What differentiates them from the competition are Value, Quality, Customer Experience, and Value again.
