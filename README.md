@@ -11,7 +11,7 @@ Team 4 | Project 1
 
 ![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1)
 
-### In this challenge, we began work on our first collaborative project of the course. Our Challenge was to: 
+### In this challenge, we began work on our first collaborative project of the FinTech Course. Our Challenge was to: 
 >  ## 1) Analyze a Real-World FinTech Problem
 
 > ## 2) Develop an Application that Solves said FinTech Problem 
