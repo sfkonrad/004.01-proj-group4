@@ -34,16 +34,16 @@ Our utility, "Project HotSpot", is tasked with providing market intelligence and
 
 > **`GREAT NEWS!`** **PurpleSky**'s Executive Management has just received approval from their legal team and core investors to move forward with plans for the business's first satellite retail location. This will be a particularly challenging decision because the new location will be outside of California; in the **Seattle-Tacoma-Bellevue MSA**. The Board has seen the work presented in our team's collective and individual **Github** repositories and they were eager to hire us for the job! Our objective was to employ critical market data to pinpoint the precise street and block that would make this new location as successful as the original.
 
-Identifying retail locations where wealthy consumers congregate, remain for a period of time, and are likely to spend money had been a challenge for the client's decision makers considering the state of the present COVID Economy.
+Identifying retail locations where wealthy consumers congregate, remain for a period of time, and are likely to spend money is a challenge for most decision makers considering the state of the present COVID Economy.
 
 ---
 
 ## Datasets
 
-#### 1. **Zillow APIs**
+#### 1. **Tesla Supercharger Station APIs and Datasets**
 #### 2. **Yelp! APIs**
 #### 3. **Income Statistics APIs**
-#### 4. **Tesla Supercharger Station APIs**
+#### 4. **Zillow Datasets**
 #### 5. **County/City Zoning and Land Use Database(s)**
 
 ---
@@ -71,9 +71,13 @@ Analysis
 
 
 assumptions:
+    
     -> more yelp reviews means higher traffic
+    
     -> the longer businesses stay in business means increased sense of community
+    
     -> 
+    
     -> 
 
 ---
