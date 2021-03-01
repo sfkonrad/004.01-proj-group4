@@ -112,4 +112,4 @@ assumptions:
 
 
 
-Cover Image by 
+Cover Image courtesy of [TheRegistry](https://news.theregistryps.com/) 
