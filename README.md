@@ -18,6 +18,17 @@ Project 1 | Team 4
 
 ### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement for the scope of our team's analysis. Our use case presents as follows...
 
+<<<<<<< HEAD
+=======
+Project 1 | Team 4
+>Alejandra Vasquez 
+
+>Ally Che
+
+>Ehab Kassim
+
+>Konrad Kozicki
+>>>>>>> c6506fe0a20f6049336d3ffb6f1c12665841c067
 
 
 ---
