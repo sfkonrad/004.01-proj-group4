@@ -106,6 +106,3 @@ assumptions:
 > - Script Q.C.
 
 
-
-
-
