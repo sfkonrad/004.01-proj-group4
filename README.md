@@ -73,9 +73,22 @@ assumptions:
     
     -> 
 
-![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)Alejandra Vasquez
+### Yelp! Analysis 
+ by Alejandra Vasquez
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)
 
-![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)Ally Che
+
+
+### Housing Analysis 
+ by Ally Che
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)
+
+
+
+### Population Analysis 
+ by Ehab Kassem
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/main/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_RedmondPopChart_01.jpg)
+
 
 
 ---
