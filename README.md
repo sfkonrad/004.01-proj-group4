@@ -10,7 +10,7 @@ Team 4 | Project 1
 
 >Konrad Kozicki
 
-![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1)
+![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1) Image courtesy of [TheRegistry](https://news.theregistryps.com/) 
 
 ### In this challenge, we began work on our first collaborative project of the FinTech Course. Our Challenge was to: 
 >  ## 1) Analyze a Real-World FinTech Problem
@@ -109,7 +109,3 @@ assumptions:
 
 
 
-
-
-
-Cover Image courtesy of [TheRegistry](https://news.theregistryps.com/) 
