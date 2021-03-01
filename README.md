@@ -77,6 +77,8 @@ assumptions:
 
 ![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)Ally Che
 
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)Ehab Kassem
+
 
 ---
 ## Conclusion
