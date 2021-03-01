@@ -59,9 +59,6 @@ Methodology
 8. Delivery of Recommendation
 
 ---
-Vizzes
-
-
 ---
 Analysis
 
@@ -75,6 +72,16 @@ assumptions:
     -> 
     
     -> 
+
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)
+
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)
+
+
+---
+Conclusion
+
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_Recommendation_01.jpg)
 
 ---
 
@@ -107,14 +114,13 @@ assumptions:
 
 
 
+
 many thanks to the
 **Instructional Staff**
 > Khaled Karman, Lead Instructor 
->
 > Venkata Kupta, TA
->
->
->
 > David Beck, TA 
 > 
 > Sarah, SSM
+
+
