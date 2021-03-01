@@ -73,9 +73,9 @@ assumptions:
     
     -> 
 
-![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)Alejandra Vasquez
 
-![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)Ally Che
 
 
 ---
@@ -114,8 +114,9 @@ Conclusion
 
 
 
+---
+Many Thanks to the
 
-many thanks to the
 **Instructional Staff**
 > Khaled Karman, Lead Instructor 
 >
