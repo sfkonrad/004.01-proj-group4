@@ -1,5 +1,14 @@
 # Project: HotSpot
 ### Market Analysis Through Automation & Data Science
+Project 1 | Team 4
+>Alejandra Vasquez 
+
+>Ally Che
+
+>Ehab Kassim
+
+>Konrad Kozicki
+
 ![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1)
 
 ### In this challenge, we began work on our first collaborative project of the course. Our Challenge was to: 
@@ -9,11 +18,17 @@
 
 ### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to determine and arrive at a mutual agreement for the scope of our team's analysis. Our use case presents as follows...
 
+<<<<<<< HEAD
+=======
 Project 1 | Team 4
 >Alejandra Vasquez 
+
 >Ally Che
+
 >Ehab Kassim
+
 >Konrad Kozicki
+>>>>>>> c6506fe0a20f6049336d3ffb6f1c12665841c067
 
 
 ---
