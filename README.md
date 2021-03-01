@@ -19,7 +19,7 @@ Team 4 | Project 1
 
 ### Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive, script-driven Analysis. 
 
-Click [HERE](https://docs.google.com/presentation/d/1UVckwzxiZkSUGI8LmImGWihVHIq9-sD3rskbnevxogo/edit#slide=id.gbfd6dcf87c_2_11) to learn more from our Google Slides presentation.
+Click [HERE](https://docs.google.com/presentation/d/1UVckwzxiZkSUGI8LmImGWihVHIq9-sD3rskbnevxogo/edit#slide=id.gc03baec2c4_0_26) to learn more from our Google Slides presentation.
 
 ---
 
