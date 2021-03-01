@@ -21,12 +21,8 @@ Team 4 | Project 1
 
 ---
 
+#### The scope of the problem we analyzed and the corresponding FinTech Application we developed are deliverables that are based in our use case, which presents as follows...
 
-
-
-
-
-#### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to mutually decide on the scope of our team's analysis. Our use case presents as follows...
 
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community.
 
