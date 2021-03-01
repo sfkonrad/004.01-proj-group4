@@ -120,11 +120,11 @@ Many Thanks to the
 **Instructional Staff**
 > Khaled Karman, Lead Instructor 
 >
-> Venkata Kupta, TA
+> Venkata Kuppa, TA
 >
 > David Beck, TA 
 >
->
+> Sunaina,TA
 >
 > Sarah, SSM
 
