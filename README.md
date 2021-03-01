@@ -84,10 +84,8 @@ assumptions:
 Credits 
 
 **Alejandra**
-
-Lead, API Engineering
-
-Co-Lead, Design Engineering
+- Lead, API Engineering
+- Co-Lead, Design Engineering
 > Programming
 - Yelp! APIs and data
 - Income Stat APIs and data
