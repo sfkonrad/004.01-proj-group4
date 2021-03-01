@@ -4,7 +4,6 @@ Team 4 | Project 1
 >Alejandra Vasquez 
 
 >Ally Che
-
 >Ehab Kassem
 
 >Konrad Kozicki
