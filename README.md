@@ -17,7 +17,7 @@ Team 4 | Project 1
 
 > ## 2) Develop an Application that Solves said FinTech Problem 
 
-Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive analysis. 
+### Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive, script-driven analysis. 
 
 ---
 
@@ -29,8 +29,6 @@ Our application, "Project: Hotspot", is the aggregator of several retail-centric
 ### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to mutually decide on the scope of our team's analysis. Our use case presents as follows...
 
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community.
-
-What differentiates them from the competition are Quality, Customer Experience, and Value.
 
 **`GREAT NEWS!`** **PurpleSky**'s Executive Management has just received approval from their legal team and core investors to move forward with plans for the business's first satellite retail location. This will be a particularly challenging decision because the new location will be outside of California; in the **Seattle-Tacoma-Bellevue MSA**. The Board has seen the work presented in our team's collective and individual **Github** repositories and they were eager to hire us for the job! Our objective was to employ critical market data to pinpoint the precise street and block that would make this new location as successful as the original.
 
