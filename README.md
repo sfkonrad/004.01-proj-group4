@@ -91,6 +91,7 @@ assumptions:
  by Ehab Kassem
 ![image](https://github.com/sfkonrad/004.01-proj-group4/blob/main/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_RedmondPopChart_01.jpg)
 
+Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Group%204%20Project%20Presentation.pdf) to learn more from our Google Slides presentation.
 
 
 ---
@@ -144,3 +145,4 @@ Many Thanks to the
 > Sarah, SSM
 
 
+Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Group%204%20Project%20Presentation.pdf) to learn more from our Google Slides presentation.
