@@ -47,7 +47,7 @@ Identifying retail locations where wealthy consumers converge, remain for a peri
 
 
 ---
-Methodology
+## Methodology
 
 1. Connect to the Data 
 2. Build Dataframes for the data 
@@ -60,7 +60,7 @@ Methodology
 
 ---
 ---
-Analysis
+## Analysis
 
 
 assumptions:
@@ -73,13 +73,13 @@ assumptions:
     
     -> 
 
-![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)Alejandra Vasquez
 
-![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_ZillowChart_01.jpg)Ally Che
 
 
 ---
-Conclusion
+## Conclusion
 
 ![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_Recommendation_01.jpg)
 
@@ -114,16 +114,17 @@ Conclusion
 
 
 
+---
+Many Thanks to the
 
-many thanks to the
 **Instructional Staff**
 > Khaled Karman, Lead Instructor 
 >
-> Venkata Kupta, TA
+> Venkata Kuppa, TA
 >
 > David Beck, TA 
 >
->
+> Sunaina,TA
 >
 > Sarah, SSM
 
