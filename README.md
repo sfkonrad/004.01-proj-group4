@@ -85,10 +85,8 @@ assumptions:
 
 **Alejandra Vasquez**
 > Lead, API Engineering
-> Co-Lead, Design Engineering
-> Programming
-> - Yelp! APIs and data
-> - Income Stat APIs and data
+> - Yelp! APIs and Data
+> - Income Statistics APIs and Data
 
 
 
