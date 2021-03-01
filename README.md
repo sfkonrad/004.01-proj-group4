@@ -17,17 +17,16 @@ Team 4 | Project 1
 
 > ## 2) Develop an Application that Solves said FinTech Problem 
 
-### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to mutually decide on the scope of our team's analysis. Our use case presents as follows...
-
+Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive analysis. 
 
 ---
 
-Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive analysis. 
 
 
 
 
 
+### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to mutually decide on the scope of our team's analysis. Our use case presents as follows...
 
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community.
 
