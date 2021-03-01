@@ -104,3 +104,12 @@ assumptions:
 **Konrad Kozicki**
 > **Lead, Programming**
 > - Script Q.C.
+
+
+
+
+
+
+
+
+Cover Image by 
