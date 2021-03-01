@@ -84,34 +84,23 @@ assumptions:
 ## Credits 
 
 **Alejandra Vasquez**
-> Lead, API Engineering
+> **Lead, API Engineering**
 > - Yelp! APIs and Data
 > - Income Statistics APIs and Data
 
 
+**Ally Che**
+> **Lead, Project Management**
+> - Zillow Historical Housing Stats APIs and Data
+> - SFR YoY Projected Growth APIs and Data
 
 
-Ally
-Lead, Project Management
-Lead, Housing Data Engineering
-Programming
-Zillow Historical Housing Stats APIs and data
-SFR YoY Projected Growth APIs and data
+**Ehab Kassem**
+> **Lead, User Stories**
+> - Tesla Supercharger Station APIs and Data
+> - Zoning and Land Use Requirements
 
 
-
-Ehab
-Lead, Program Logic and User Stories
-Co-Lead, Design Engineering
-Programming
-Tesla Supercharger Station APIs and data
-Zoning and Land Use Requirements
-
-
-
-Konrad
-User Stories, GitHub Master
-C0-Lead
-Overall architect
-Overall data & support
-
+**Konrad Kozicki**
+> **Lead, Programming**
+> - Script Q.C.
