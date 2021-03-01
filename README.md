@@ -26,13 +26,13 @@ Team 4 | Project 1
 
 
 
-### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to mutually decide on the scope of our team's analysis. Our use case presents as follows...
+#### The problem we analyzed and the corresponding FinTech Application we developed are deliverables that required us to mutually decide on the scope of our team's analysis. Our use case presents as follows...
 
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community.
 
 Our utility, "Project HotSpot", is tasked with providing market intelligence and recommendations for PurpleSky’s next retail location, preferably located on Seattle's Eastside.
 
-**`GREAT NEWS!`** **PurpleSky**'s Executive Management has just received approval from their legal team and core investors to move forward with plans for the business's first satellite retail location. This will be a particularly challenging decision because the new location will be outside of California; in the **Seattle-Tacoma-Bellevue MSA**. The Board has seen the work presented in our team's collective and individual **Github** repositories and they were eager to hire us for the job! Our objective was to employ critical market data to pinpoint the precise street and block that would make this new location as successful as the original.
+> **`GREAT NEWS!`** **PurpleSky**'s Executive Management has just received approval from their legal team and core investors to move forward with plans for the business's first satellite retail location. This will be a particularly challenging decision because the new location will be outside of California; in the **Seattle-Tacoma-Bellevue MSA**. The Board has seen the work presented in our team's collective and individual **Github** repositories and they were eager to hire us for the job! Our objective was to employ critical market data to pinpoint the precise street and block that would make this new location as successful as the original.
 
 Identifying retail locations where wealthy consumers congregate, remain for a period of time, and are likely to spend money had been a challenge for the client's decision makers considering the state of the present COVID Economy.
 
