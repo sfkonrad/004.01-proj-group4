@@ -1,5 +1,6 @@
 # Project: HotSpot
 ### Market Analysis Through Automation & Data Science
+
 Team 4 | Project 1
 >Alejandra Vasquez 
 
@@ -21,16 +22,16 @@ Team 4 | Project 1
 
 ---
 
+Our application, "Project: Hotspot", is the aggregator of several retail-centric market datapoints and translates them into Actionable Insights through comprehensive analysis. 
 
 
 
 
 
 
+### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community.
 
-### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community. The doors of this belovedly understated storefront have been open for business since 2013.
-
-What differentiates them from the competition are Value, Quality, Customer Experience, and Value again.
+What differentiates them from the competition are Quality, Customer Experience, and Value.
 
 **`GREAT NEWS!`** **PurpleSky**'s Executive Management has just received approval from their legal team and core investors to move forward with plans for the business's first satellite retail location. This will be a particularly challenging decision because the new location will be outside of California; in the **Seattle-Tacoma-Bellevue MSA**. The Board has seen the work presented in our team's collective and individual **Github** repositories and they were eager to hire us for the job! Our objective was to employ critical market data to pinpoint the precise street and block that would make this new location as successful as the original.
 
