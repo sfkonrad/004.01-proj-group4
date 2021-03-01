@@ -47,7 +47,7 @@ Identifying retail locations where wealthy consumers converge, remain for a peri
 
 
 ---
-Methodology
+## Methodology
 
 1. Connect to the Data 
 2. Build Dataframes for the data 
@@ -60,7 +60,7 @@ Methodology
 
 ---
 ---
-Analysis
+## Analysis
 
 
 assumptions:
@@ -79,7 +79,7 @@ assumptions:
 
 
 ---
-Conclusion
+## Conclusion
 
 ![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_Recommendation_01.jpg)
 
