@@ -65,16 +65,6 @@ Identifying retail locations where wealthy consumers converge, remain for a peri
 ## Analysis
 
 
-assumptions:
-    
-    -> more yelp reviews means higher traffic
-    
-    -> the longer businesses stay in business means increased sense of community
-    
-    -> 
-    
-    -> 
-
 ### Yelp! Analysis 
  by Alejandra Vasquez
 ![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)
