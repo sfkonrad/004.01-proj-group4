@@ -23,7 +23,7 @@ Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Chall
 
 ---
 
-#### The scope of the problem we analyzed and the corresponding FinTech Application we developed are deliverables that are based in our use case, which presents as follows...
+#### The scope of the problem we analyzed and the corresponding FinTech Application we developed are deliverables that reside in our use case, which presents as follows...
 
 
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community.
@@ -116,8 +116,6 @@ Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Chall
 
 **Konrad Kozicki**
 > **Lead, Programming**
-> - Script Q.C.
-
 
 
 ---
