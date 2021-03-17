@@ -2,13 +2,13 @@
 ### Market Analysis Through Automation & Data Science
 
 Team 4 | Project 1
->Alejandra Vasquez 
+>[Alejandra Vasquez](https://www.linkedin.com/in/maria-alejandra-vasquez-11b982122) 
 
->Ally Che
+>[Ally Che](https://www.linkedin.com/in/allyche)
 
->Ehab Kassem
+>[Ehab Kassem](https://www.linkedin.com/in/ehab-k-4358b810b/)
 
->Konrad Kozicki
+>[Konrad Kozicki](https://www.linkedin.com/in/kkozicki/)
 
 ![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1) Image courtesy of [TheRegistry](https://news.theregistryps.com/) 
 
@@ -23,7 +23,7 @@ Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Chall
 
 ---
 
-#### The scope of the problem we analyzed and the corresponding FinTech Application we developed are deliverables that are based in our use case, which presents as follows...
+#### The scope of the problem we analyzed and the corresponding FinTech Application we developed are deliverables that reside in our use case, which presents as follows...
 
 
 ### **PurpleSky** is a popular retail business establishment in San Francisco's bustling Mission District community.
@@ -65,16 +65,6 @@ Identifying retail locations where wealthy consumers converge, remain for a peri
 ## Analysis
 
 
-assumptions:
-    
-    -> more yelp reviews means higher traffic
-    
-    -> the longer businesses stay in business means increased sense of community
-    
-    -> 
-    
-    -> 
-
 ### Yelp! Analysis 
  by Alejandra Vasquez
 ![image](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Images/SharedScreenshot_yelpchart_01.jpg)
@@ -101,33 +91,31 @@ Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Chall
 
 ---
 
-**`CONGRATS!`** The team has done such great work helping **PurpleSky** find their next location, the board has green-lit investment in *group-004'*s new FinTech consulting firm. We now have the resources to develop a commercial application of the program.py that will help other burgeoning cannabis dispensaries find that ideal location for their next store's location. Which will come in handy (and profitable!) with the imminent arrival of Federal decriminalization of cannabis use.
+**`CONGRATS!`** The team has done such great work helping **PurpleSky** find their next location, the board has green-lit investment in **group-004**'s new FinTech consulting firm. We now have the resources to develop a commercial application of the program.py that will help other burgeoning cannabis dispensaries find that ideal location for their next store's location. Which will come in handy (and profitable!) with the imminent arrival of Federal decriminalization of cannabis use.
 
 ---
 ## Credits 
 
-**Alejandra Vasquez**
+**[Alejandra Vasquez](https://www.linkedin.com/in/maria-alejandra-vasquez-11b982122)**
 > **Lead, API Engineering**
 > - Yelp! APIs and Data
 > - Income Statistics APIs and Data
 
 
-**Ally Che**
+**[Ally Che](https://www.linkedin.com/in/allyche)**
 > **Lead, Project Management**
 > - Zillow Historical Housing Stats APIs and Data
 > - SFR YoY Projected Growth APIs and Data
 
 
-**Ehab Kassem**
+**[Ehab Kassem](https://www.linkedin.com/in/ehab-k-4358b810b/)**
 > **Lead, User Stories**
 > - Tesla Supercharger Station APIs and Data
 > - Zoning and Land Use Requirements
 
 
-**Konrad Kozicki**
-> **Lead, Programming**
-> - Script Q.C.
-
+**[Konrad Kozicki](https://www.linkedin.com/in/kkozicki/)**
+> **Lead, Logic & Programming**
 
 
 ---
@@ -146,3 +134,6 @@ Many Thanks to the
 
 
 Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Group%204%20Project%20Presentation.pdf) to learn more from our Google Slides presentation.
+
+
+>>>>>>>>>>>>>>> ![image](https://user-images.githubusercontent.com/29224237/111516488-31862200-8711-11eb-9ffe-ac9755d55de4.png)
