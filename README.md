@@ -2,13 +2,13 @@
 ### Market Analysis Through Automation & Data Science
 
 Team 4 | Project 1
->Alejandra Vasquez 
+>[Alejandra Vasquez](https://www.linkedin.com/in/maria-alejandra-vasquez-11b982122) 
 
->Ally Che
+>[Ally Che](https://www.linkedin.com/in/allyche)
 
->Ehab Kassem
+>[Ehab Kassem](https://www.linkedin.com/in/ehab-k-4358b810b/)
 
->Konrad Kozicki
+>[Konrad Kozicki](https://www.linkedin.com/in/kkozicki/)
 
 ![image](https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2018/07/Eastside.jpeg?fit=1000%2C548&ssl=1) Image courtesy of [TheRegistry](https://news.theregistryps.com/) 
 
@@ -96,25 +96,25 @@ Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Chall
 ---
 ## Credits 
 
-**Alejandra Vasquez**
+**[Alejandra Vasquez](https://www.linkedin.com/in/maria-alejandra-vasquez-11b982122)**
 > **Lead, API Engineering**
 > - Yelp! APIs and Data
 > - Income Statistics APIs and Data
 
 
-**Ally Che**
+**[Ally Che](https://www.linkedin.com/in/allyche)**
 > **Lead, Project Management**
 > - Zillow Historical Housing Stats APIs and Data
 > - SFR YoY Projected Growth APIs and Data
 
 
-**Ehab Kassem**
+**[Ehab Kassem](https://www.linkedin.com/in/ehab-k-4358b810b/)**
 > **Lead, User Stories**
 > - Tesla Supercharger Station APIs and Data
 > - Zoning and Land Use Requirements
 
 
-**Konrad Kozicki**
+**[Konrad Kozicki](https://www.linkedin.com/in/kkozicki/)**
 > **Lead, Logic & Programming**
 
 
