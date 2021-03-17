@@ -91,7 +91,7 @@ Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Chall
 
 ---
 
-**`CONGRATS!`** The team has done such great work helping **PurpleSky** find their next location, the board has green-lit investment in *group-004'*s new FinTech consulting firm. We now have the resources to develop a commercial application of the program.py that will help other burgeoning cannabis dispensaries find that ideal location for their next store's location. Which will come in handy (and profitable!) with the imminent arrival of Federal decriminalization of cannabis use.
+**`CONGRATS!`** The team has done such great work helping **PurpleSky** find their next location, the board has green-lit investment in **group-004**'s new FinTech consulting firm. We now have the resources to develop a commercial application of the program.py that will help other burgeoning cannabis dispensaries find that ideal location for their next store's location. Which will come in handy (and profitable!) with the imminent arrival of Federal decriminalization of cannabis use.
 
 ---
 ## Credits 
