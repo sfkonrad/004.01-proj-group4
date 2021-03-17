@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/29224237/111516488-31862200-8711-11eb-9ffe-ac9755d55de4.png)
+
 # Project: HotSpot
 ### Market Analysis Through Automation & Data Science
 
