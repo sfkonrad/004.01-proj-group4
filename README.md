@@ -109,13 +109,13 @@ Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Chall
 
 
 **Ehab Kassem**
-> **Lead, Programming**
+> **Lead, User Stories**
 > - Tesla Supercharger Station APIs and Data
 > - Zoning and Land Use Requirements
 
 
 **Konrad Kozicki**
-> **Lead, Logic & User Stories**
+> **Lead, Logic & Programming**
 
 
 ---
