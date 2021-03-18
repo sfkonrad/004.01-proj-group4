@@ -136,4 +136,5 @@ Many Thanks to the
 Click [HERE](https://github.com/sfkonrad/004.01-proj-group4/blob/konrad/M8_Challenge_Submission/Documentation/Group%204%20Project%20Presentation.pdf) to learn more from our Google Slides presentation.
 
 
->>>>>>>>>>> ![image](https://user-images.githubusercontent.com/29224237/111516488-31862200-8711-11eb-9ffe-ac9755d55de4.png)
+
+>>>>>>> ![image](https://user-images.githubusercontent.com/29224237/111516488-31862200-8711-11eb-9ffe-ac9755d55de4.png)
