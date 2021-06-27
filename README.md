@@ -60,6 +60,8 @@ Identifying retail locations where wealthy consumers converge, remain for a peri
 7. Analysis and Findings 
 8. Delivery of Recommendation
 
+![image](https://github.com/sfkonrad/004.01-proj-group4/blob/main/M8_Challenge_Submission/Documentation/Images/PurpleSky1-Sys-Design.png)
+
 ---
 ---
 ## Analysis
